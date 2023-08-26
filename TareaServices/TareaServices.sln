@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TareaServices", "TareaServices\TareaServices.csproj", "{E66C5D9A-FCF1-40AA-932E-B9A39751BE42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E66C5D9A-FCF1-40AA-932E-B9A39751BE42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66C5D9A-FCF1-40AA-932E-B9A39751BE42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66C5D9A-FCF1-40AA-932E-B9A39751BE42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66C5D9A-FCF1-40AA-932E-B9A39751BE42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1025BF0-8E7B-43B8-A431-FCEA3CFFC7F5}
+	EndGlobalSection
+EndGlobal
